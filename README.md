@@ -1,1 +1,3 @@
-# bootcamp-02
+# Flexbox Menu - Easy
+
+Just a simple flexbox menu.
