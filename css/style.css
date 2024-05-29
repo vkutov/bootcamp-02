@@ -12,9 +12,9 @@ nav {
 nav a {
     text-decoration: none;
     font-size: 1.5rem;
-    color: #666;
+    color: #969191;
     flex: 1;
-    display:inline-block;
+    display:flex;
     justify-content: center;
     align-items: center;
 }
